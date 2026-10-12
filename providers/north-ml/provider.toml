@@ -1,4 +1,4 @@
-# North ML — first-party host for its own Fiber 1 models.
+# North ML — first-party host for its own Kestrel models.
 # API: https://api.north-ml.space/v1 (OpenAI-compatible; GET /v1/models, POST /v1/chat/completions)
 name = "North ML"
 npm = "@ai-sdk/openai-compatible"
