@@ -5,7 +5,7 @@
 # Context: context_length = 2048 on the /v1/models entry.
 # Output: https://www.north-ml.space/api documents `max_tokens` up to 1,024 (default 512).
 # Modalities: https://www.north-ml.space/api states "text only".
-# Cost: 0.005 USD/MTok, input and output, as stated by the North ML maintainer (2026-10-12).
+# Cost: 0.005 USD/MTok, input and output, as stated by the North ML maintainer (2026-10-11).
 # Parameters: 189M, trained from scratch (proprietary).
 name = "Kestrel Alpha"
 description = "North ML's proprietary 189M-parameter chat model, trained from scratch."
